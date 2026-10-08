@@ -53,7 +53,7 @@ K4-L3-DAY22-HoVaTen-MSSV-LLMOpsPromptVersioning/
 Nộp qua **cổng nộp bài của khóa học** (LMS) 2 đường dẫn:
 
 1. URL GitHub repository (public, đặt tên đúng quy ước).
-2. URL LangSmith project (tổng cộng ≥ 100 traces; để chế độ chia sẻ công khai nếu muốn nhận điểm thưởng).
+2. URL LangSmith project (tổng cộng ≥ 100 traces; để chế độ chia sẻ công khai nếu muốn nhận điểm thưởng). (Để link vào README.md trong evidence/ nếu muốn.)
 
 ---
 
